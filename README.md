@@ -12,6 +12,7 @@
 - Con el modelo que vamos a ver podremos saber cuanta cantidad de bicis se podrá vender (puedes subir cualquier base de datos pero teniendo las suficientes variables) en este caso sera para una predicción de bicis
 - Recuerda que las compute instances cuestan por hora asi que no olvides apagarlas y/o eliminarlas 
 - Los computer clousters no importa si no los eliminas ya que estos se apagan cuando no son utilizados (importante seleccionar los nodos minimos en 0)
+- IMPORTANTE: Los recursos que vamos a crear en Azure Machine Learning pueden tardar mucho, ya que son procesos muy demorantes con que aplicara para poder predecir las variables que hayamos puesto, esto dependiendo del modelo del Computer Instaces que hayamos puesto al igual que los nodos del Computer Clouster, asi que no te preucupes si tarda mas de 30m en que se cree uno de estos.
 
 
 -------------------------
