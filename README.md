@@ -6,7 +6,7 @@
 - Tener una suscripcion en Azure
 - Tener una conexion a internet
 - Tener un navegador instalado (Brave,Google,Firefox, etc)
-- Ocuparas este [link](aka.ms/bike-rentals) para la base de datos si no funciona *(aka.ms/bike-rentals)*
+- Ocuparas este [link](https://aka.ms/bike-rentals) para la base de datos si no funciona *(https://aka.ms/bike-rentals)*
 
 ## Cosas a tener en cueta
 - Con el modelo que vamos a ver podremos saber cuanta cantidad de bicis se podrá vender (puedes subir cualquier base de datos pero teniendo las suficientes variables) en este caso sera para una predicción de bicis
